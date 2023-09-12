@@ -8,8 +8,6 @@ module.exports = defineConfig({
       viewportWidthBreakpoint: 768,
     },
     requestTimeout: 12000,
-    setupNodeEvents(on, config) {
-      // TODO implement node event listeners here
-    },
   },
+  projectId: 'ioi2eh',
 })
